@@ -133,7 +133,7 @@ var cnItems = {
     "Ampliflux": "放大器",
     " | Tier:": " |层级:",
     "Always have 10ms best reset run, disable auto reset and unlock offline tier resets": "总是有10毫秒的最佳重置运行，禁用自动重置和解锁离线层重置",
-    "": "",
+    " | Resets made:": " | 重置次数:",
     "": "",
     "": "",
     "": "",
